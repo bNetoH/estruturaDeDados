@@ -1,0 +1,12 @@
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarHoras\SomarHoras\bin\Debug\SomarHoras.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarHoras\SomarHoras\bin\Debug\SomarHoras.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarHoras\SomarHoras\bin\Debug\SomarHoras.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarHoras\SomarHoras\obj\Debug\SomarHoras.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarHoras\SomarHoras\obj\Debug\SomarHoras.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarHoras\SomarHoras\obj\Debug\SomarHoras.csprojResolveAssemblyReference.cache
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarHoras\SomarHoras\bin\Debug\SomarHoras.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarHoras\SomarHoras\obj\Debug\SomarHoras.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarHoras\SomarHoras\obj\Debug\SomarHoras.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarHoras\SomarHoras\bin\Debug\SomarHoras.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarHoras\SomarHoras\bin\Debug\SomarHoras.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarHoras\SomarHoras\obj\Debug\SomarHoras.csprojResolveAssemblyReference.cache

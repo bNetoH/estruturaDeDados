@@ -1,0 +1,6 @@
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\pilhaestatica\pilhaestatica\bin\Debug\pilhaestatica.exe.config
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\pilhaestatica\pilhaestatica\bin\Debug\pilhaestatica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\pilhaestatica\pilhaestatica\bin\Debug\pilhaestatica.pdb
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\pilhaestatica\pilhaestatica\obj\Debug\pilhaestatica.csprojResolveAssemblyReference.cache
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\pilhaestatica\pilhaestatica\obj\Debug\pilhaestatica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\pilhaestatica\pilhaestatica\obj\Debug\pilhaestatica.pdb

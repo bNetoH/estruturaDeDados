@@ -1,0 +1,6 @@
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaEstatica\filaEstatica\bin\Debug\filaEstatica.exe.config
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaEstatica\filaEstatica\bin\Debug\filaEstatica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaEstatica\filaEstatica\bin\Debug\filaEstatica.pdb
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaEstatica\filaEstatica\obj\Debug\filaEstatica.csprojResolveAssemblyReference.cache
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaEstatica\filaEstatica\obj\Debug\filaEstatica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaEstatica\filaEstatica\obj\Debug\filaEstatica.pdb

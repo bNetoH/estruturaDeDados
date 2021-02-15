@@ -1,0 +1,6 @@
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\somaRecursiva\somaRecursiva\bin\Debug\somaRecursiva.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\somaRecursiva\somaRecursiva\bin\Debug\somaRecursiva.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\somaRecursiva\somaRecursiva\bin\Debug\somaRecursiva.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\somaRecursiva\somaRecursiva\obj\Debug\somaRecursiva.csprojResolveAssemblyReference.cache
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\somaRecursiva\somaRecursiva\obj\Debug\somaRecursiva.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\somaRecursiva\somaRecursiva\obj\Debug\somaRecursiva.pdb

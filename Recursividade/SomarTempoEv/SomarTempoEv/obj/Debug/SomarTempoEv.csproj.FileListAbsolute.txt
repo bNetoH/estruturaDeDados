@@ -1,0 +1,12 @@
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarTempoEv\SomarTempoEv\bin\Debug\SomarTempoEv.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarTempoEv\SomarTempoEv\bin\Debug\SomarTempoEv.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarTempoEv\SomarTempoEv\bin\Debug\SomarTempoEv.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarTempoEv\SomarTempoEv\obj\Debug\SomarTempoEv.csprojResolveAssemblyReference.cache
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarTempoEv\SomarTempoEv\obj\Debug\SomarTempoEv.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\SomarTempoEv\SomarTempoEv\obj\Debug\SomarTempoEv.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarTempoEv\SomarTempoEv\bin\Debug\SomarTempoEv.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarTempoEv\SomarTempoEv\obj\Debug\SomarTempoEv.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarTempoEv\SomarTempoEv\obj\Debug\SomarTempoEv.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarTempoEv\SomarTempoEv\bin\Debug\SomarTempoEv.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarTempoEv\SomarTempoEv\bin\Debug\SomarTempoEv.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\SomarTempoEv\SomarTempoEv\obj\Debug\SomarTempoEv.csprojResolveAssemblyReference.cache

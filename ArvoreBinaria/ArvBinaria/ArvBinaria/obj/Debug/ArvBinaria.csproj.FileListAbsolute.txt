@@ -1,0 +1,12 @@
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\ArvBinaria\ArvBinaria\bin\Debug\ArvBinaria.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\ArvBinaria\ArvBinaria\bin\Debug\ArvBinaria.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\ArvBinaria\ArvBinaria\bin\Debug\ArvBinaria.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\ArvBinaria\ArvBinaria\obj\Debug\ArvBinaria.csprojResolveAssemblyReference.cache
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\ArvBinaria\ArvBinaria\obj\Debug\ArvBinaria.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\ArvBinaria\ArvBinaria\obj\Debug\ArvBinaria.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\ArvBinaria\ArvBinaria\bin\Debug\ArvBinaria.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\ArvBinaria\ArvBinaria\obj\Debug\ArvBinaria.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\ArvBinaria\ArvBinaria\obj\Debug\ArvBinaria.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\ArvBinaria\ArvBinaria\bin\Debug\ArvBinaria.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\ArvBinaria\ArvBinaria\bin\Debug\ArvBinaria.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados\ArvBinaria\ArvBinaria\obj\Debug\ArvBinaria.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaDinamica\filaDinamica\bin\Debug\filaDinamica.exe.config
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaDinamica\filaDinamica\bin\Debug\filaDinamica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaDinamica\filaDinamica\bin\Debug\filaDinamica.pdb
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaDinamica\filaDinamica\obj\Debug\filaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaDinamica\filaDinamica\obj\Debug\filaDinamica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\filaDinamica\filaDinamica\obj\Debug\filaDinamica.pdb

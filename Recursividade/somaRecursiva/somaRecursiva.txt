@@ -1,0 +1,25 @@
+algoritmo "somaRecursiva"
+// Função : incrementar valor inteiro entrado pelo usuário em variavel totalizadora
+// Autor : homero b neto
+// Data : 26/10/2020
+// Seção de Declarações
+procedimento soma(x,y: inteiro)
+   inicio
+      total <- x + y
+fimprocedimento
+var
+   total,n: inteiro
+inicio
+   n <- 1
+   enquanto n <> 0 faca
+      n <- 0
+      escreval("Entre com os valores para somar e entre com 0 zero para finalizar")
+      escreval("")
+      escreval("Total.....: ",total)
+      escreva ("Adicionar.: ")
+      leia(n)
+      soma(total,n)
+      limpatela
+   fimenquanto
+   escreval("Total.....: ",total)
+fimalgoritmo

@@ -1,0 +1,12 @@
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\bin\Debug\listaDinamica.exe.config
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\bin\Debug\listaDinamica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\bin\Debug\listaDinamica.pdb
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\obj\Debug\listaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\obj\Debug\listaDinamica.exe
+C:\Users\Carla\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\obj\Debug\listaDinamica.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\bin\Debug\listaDinamica.exe.config
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\obj\Debug\listaDinamica.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\obj\Debug\listaDinamica.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\bin\Debug\listaDinamica.exe
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\bin\Debug\listaDinamica.pdb
+C:\Users\homer\OneDrive\Fatec\3 Sem\Estrutura de Dados - Ronnie\listaDinamica\listaDinamica\obj\Debug\listaDinamica.csprojResolveAssemblyReference.cache
